@@ -1,2 +1,2 @@
 # Wanfang-Wikipedia-Citation-Generator
-Generate Wikipedia citation for Wanfang articles
+目前仅支持期刊（periodical）。
